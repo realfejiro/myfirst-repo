@@ -1,6 +1,6 @@
-# Ranti Music Website
+# Just Setting up my GitHub
 
-This is a website for ranti music. Built with HTML, CSS and JavaScript. It is one of my projects to strengthen my HTML and CSS skills.
+Currently learning how git works and how to use GitHub
 
 ## Subheading
 
